@@ -30,5 +30,6 @@ Mobile application for the Smart Locker Management System. It is being built wit
 - [ ] Locker list UI and real-time availability
 
 ## Design Progress
+- [x] Login/Sign Up UI implemented (simple but great starting point)
 - [ ] Mock UI designed
 - [ ] Mock UI implemented
